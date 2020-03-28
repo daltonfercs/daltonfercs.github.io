@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Techs on DaltonFerCS</title>
+    <link>https://dafecesa.github.io/techs/</link>
+    <description>Recent content in Techs on DaltonFerCS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-us</language>
+    <copyright>© DaltonFerCS - Edna West</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://dafecesa.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>java</title>
+      <link>https://dafecesa.github.io/techs/java/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://dafecesa.github.io/techs/java/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
