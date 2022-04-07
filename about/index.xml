@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on daltonfercs</title>
+    <link>http://daltonfercs.com/about/</link>
+    <description>Recent content in About on daltonfercs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language><atom:link href="http://daltonfercs.com/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
