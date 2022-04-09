@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on daltonfercs</title>
-    <link>http://daltonfercs.com/contact/</link>
+    <link>https://daltonfercs.com/contact/</link>
     <description>Recent content in Contact on daltonfercs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language><atom:link href="http://daltonfercs.com/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>ES-es</language><atom:link href="https://daltonfercs.com/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
